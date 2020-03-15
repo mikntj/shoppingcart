@@ -23,10 +23,7 @@ import NavBar from './components/Todos';
 export default Navbar */
 
 
-import React from 'react';
-
-/*import React, { Component } from 'react';*/
-
+import React, { Component } from 'react';
 
 class NavBar extends Component {
   render() {
